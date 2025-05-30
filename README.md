@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋  
+# Hola, soy Luis Barragán 👋  
 🔭 Actualmente trabajo en [tu proyecto/trabajo]  
 🌱 Aprendiendo [tecnología/lenguaje]  
 💬 Pregúntame sobre [tus temas de expertise]  
@@ -23,4 +23,4 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/tuusuario)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
 
-![Banner](https://github.com/tuusuario/tuusuario/blob/main/banner.gif)  
+![Banner](https://github.com/luismab95/luismab95/blob/main/banner.gif)  
