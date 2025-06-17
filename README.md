@@ -54,7 +54,7 @@ Desarrollador Fullstack con más de 7 años de experiencia en el diseño, desarr
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/lmbg9524)
 [![X (Twitter)](https://img.shields.io/badge/-@luismab95-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/luismab95)
-[![Portafolio](https://img.shields.io/badge/-Portafolio-121212?style=flat-square&logo=vercel)](https://TU_PORTAFOLIO.com)
+[![Portafolio](https://img.shields.io/badge/-Portafolio-121212?style=flat-square&logo=vercel)](https://luis-barragan-portfolio.vercel.app/)
 [![Correo](https://img.shields.io/badge/-Correo-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luismab95@gmail.com)
 
 ---
