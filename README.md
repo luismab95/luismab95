@@ -44,9 +44,9 @@ Desarrollador Fullstack con más de 7 años de experiencia en el diseño, desarr
 
 ## 📈 Estadísticas de GitHub
 
-![luismab95 GitHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=luismab95)
+![luismab95 GitHub's GitHub stats](https://github-readme-stats-luis-barragan.vercel.app/api?username=luismab95)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismab95)
+![Top Langs](https://github-readme-stats-luis-barragan.vercel.app/top-langs?username=luismab95)
 
 ---
 
