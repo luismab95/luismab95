@@ -38,7 +38,8 @@ Desarrollador Fullstack con más de 7 años de experiencia en el diseño, desarr
 ![Kong](https://img.shields.io/badge/-Kong-002659?style=flat-square&logo=kong)
 ![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?style=flat-square&logo=traefikproxy)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp)
 ---
 
 ## 📈 Estadísticas de GitHub
