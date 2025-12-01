@@ -1,90 +1,102 @@
-# 👋 ¡Hola! Soy Luis Barragán
+<div align="center">
+  <h1>👋 ¡Hola! Soy Luis Barragán</h1>
+  <h3>Desarrollador Fullstack | +7 Años de Experiencia | Entusiasta del Código Limpio</h3>
+  
+  <p>
+    <a href="https://linkedin.com/in/lmbg9524">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/luismab95">
+      <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="mailto:luismab95@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://luis-barragan-portfolio.vercel.app/">
+      <img src="https://img.shields.io/badge/-Portafolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+</div>
 
-Desarrollador **Fullstack** con más de **7 años de experiencia**
-construyendo aplicaciones web y móviles de alto rendimiento. Me
-especializo en el desarrollo de **APIs escalables**, interfaces modernas
-y arquitecturas robustas orientadas a la nube.\
-Apasionado por el **código limpio**, la **optimización de performance**,
-la **seguridad**, y las soluciones que realmente aportan valor.
-
-------------------------------------------------------------------------
+---
 
 ## 🚀 Sobre mí
 
--   🔭 Actualmente: desarrollador independiente en múltiples proyectos
-    tecnológicos.\
--   💬 Temas en los que puedo ayudarte: **APIs REST**,
-    **microservicios**, **arquitecturas backend**, **seguridad**,
-    **DevOps**, rendimiento, y más.\
--   ⚡ Fun fact: mi entorno natural es una terminal con café al lado
-    ☕💻
+Soy un apasionado **Desarrollador Fullstack** especializado en construir aplicaciones web y móviles de alto rendimiento. Me enfoco en **APIs escalables**, interfaces modernas y arquitecturas robustas en la nube.
 
-------------------------------------------------------------------------
+- 🔭 **Actualmente**: Trabajando como desarrollador independiente en múltiples proyectos tecnológicos.
+- 💬 **Pregúntame sobre**: APIs REST, Microservicios, Arquitectura Backend, Seguridad y DevOps.
+- ⚡ **Dato curioso**: Mi entorno natural es una terminal con una taza de café al lado ☕💻.
 
-## 🛠️ Tecnologías y herramientas
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+<div align="center">
 
 ### **Frontend**
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![React
-Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **Apps Móviles**
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### **Backend**
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### **Bases de datos**
+### **Bases de Datos**
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ### **Infraestructura & DevOps**
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx)
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache)
-![Kong](https://img.shields.io/badge/-Kong-002659?style=flat-square&logo=kong)
-![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?style=flat-square&logo=traefikproxy)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-### **Otros**
+</div>
 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![ElasticSearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch)
-![Kibana](https://img.shields.io/badge/-Kibana-E8478B?style=flat-square&logo=kibana)
-
-------------------------------------------------------------------------
+---
 
 ## 📈 Estadísticas de GitHub
 
-![luismab95 GitHub's GitHub
-stats](https://github-readme-stats-luis-barragan.vercel.app/api?username=luismab95)\
-![Top
-Langs](https://github-readme-stats-luis-barragan.vercel.app/api/top-langs?username=luismab95)
+<div align="center">
+  <a href="https://github.com/luismab95">
+  <img height="180em" src="https://github-readme-stats-luis-barragan.vercel.app/api?username=luismab95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats-luis-barragan.vercel.app/api/top-langs/?username=luismab95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+</div>
 
-------------------------------------------------------------------------
+<br/>
 
-## 🌐 Encuéntrame en
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luismab95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/lmbg9524)
-[![X
-(Twitter)](https://img.shields.io/badge/-@luismab95-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/luismab95)
-[![Portafolio](https://img.shields.io/badge/-Portafolio-121212?style=flat-square&logo=vercel)](https://luis-barragan-portfolio.vercel.app/)
-[![Correo](https://img.shields.io/badge/-Correo-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luismab95@gmail.com)
+---
 
-------------------------------------------------------------------------
-
-Gracias por visitar mi perfil 😄\
-**¡Construyamos algo increíble juntos!** 🚀
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=luismab95&label=Profile%20Views&color=0e75b6&style=flat" alt="luismab95" />
+  <br/>
+  <br/>
+  <b>¡Construyamos algo increíble juntos! 🚀</b>
+</div>
