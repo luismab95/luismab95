@@ -7,7 +7,6 @@ Desarrollador Fullstack con más de 7 años de experiencia en el diseño, desarr
 ## 🚀 Sobre mí
 
 - 🔭 Actualmente trabajando como: desarrollador independiente en proyectos de tecnología.
-- 🌱 Aprendiendo sobre: Inteligencia Artificial, DevOps y Arquitectura de Software
 - 💬 Pregúntame sobre: desarrollo web, APIs REST, microservicios, seguridad en aplicaciones, o lo que necesites 🤝
 - ⚡ Fun fact: Siempre tengo una terminal abierta (¡y café cerca!)
 
