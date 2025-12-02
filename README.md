@@ -58,7 +58,7 @@ Soy un apasionado **Desarrollador Fullstack** especializado en construir aplicac
 <br/>
 
 <div align="center">
-    <img src="[https://github-profile-trophy.vercel.app/?username=luismab95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4](https://github-profile-trophy.vercel.app/?username=luismab95&theme=tokyonight&no-bg=true&no-frame=true&column=7)" />
+    <img src="https://github-profile-trophy.vercel.app/?username=luismab95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4](https://github-profile-trophy.vercel.app/?username=luismab95&theme=tokyonight&no-bg=true&no-frame=true&column=7)" />
 </div>
 
 ---
