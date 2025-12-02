@@ -51,14 +51,14 @@ Soy un apasionado **Desarrollador Fullstack** especializado en construir aplicac
 <div align="center">
   <a href="https://github.com/luismab95">
   <img height="180em" src="https://github-readme-stats-luis-barragan.vercel.app/api?username=luismab95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=luismab95&theme=tokyonight&no-bg=true&no-frame=true&column=7" />
+  <img height="180em" src="https://github-readme-stats-luis-barragan.vercel.app/api/top-langs/?username=luismab95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luismab95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+    <img src="[https://github-profile-trophy.vercel.app/?username=luismab95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4](https://github-profile-trophy.vercel.app/?username=luismab95&theme=tokyonight&no-bg=true&no-frame=true&column=7)" />
 </div>
 
 ---
