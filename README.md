@@ -59,7 +59,7 @@ Soy un apasionado **Desarrollador Fullstack** especializado en construir aplicac
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=luismab95&label=Profile%20Views&color=0e75b6&style=flat" alt="luismab95" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=luismab95&label=Profile%20Views&color=0e75b6&style=flat" alt="luismab95" /> -->
   <br/>
   <br/>
   <b>¡Construyamos algo increíble juntos! 🚀</b>
